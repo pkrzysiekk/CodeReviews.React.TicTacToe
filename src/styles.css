@@ -88,3 +88,8 @@ body {
 .game-info {
   margin-left: 20px;
 }
+
+.game-info button {
+  border-radius: 1rem;
+  border-width: 1rem;
+}
